@@ -1,0 +1,56 @@
+label define provincelb 1 `"ARABA/ALAVA"', modify
+label define provincelb 2 `"ALBACETE"', modify
+label define provincelb 3 `"ALACANT"', modify
+label define provincelb 4 `"ALMERIA"', modify
+label define provincelb 5 `"AVILA"', modify
+label define provincelb 6 `"BADAJOZ"', modify
+label define provincelb 7 `"BALEARES"', modify
+label define provincelb 8 `"BARCELONA"', modify
+label define provincelb 9 `"BURGOS"', modify
+label define provincelb 10 `"CACERES"', modify
+label define provincelb 11 `"CADIZ"', modify
+label define provincelb 12 `"CASTELLO"', modify
+label define provincelb 13 `"CIUDAD REAL"', modify
+label define provincelb 14 `"CORDOBA"', modify
+label define provincelb 15 `"CORUÑA"', modify
+label define provincelb 16 `"CUENCA"', modify
+label define provincelb 17 `"GIRONA"', modify
+label define provincelb 18 `"GRANADA"', modify
+label define provincelb 19 `"GUADALAJARA"', modify
+label define provincelb 20 `"GIPUZCOA"', modify
+label define provincelb 21 `"HUELVA"', modify
+label define provincelb 22 `"HUESCA"', modify
+label define provincelb 23 `"JAEN"', modify
+label define provincelb 24 `"LEON"', modify
+label define provincelb 25 `"LLEIDA"', modify
+label define provincelb 26 `"RIOJA"', modify
+label define provincelb 27 `"LUGO"', modify
+label define provincelb 28 `"MADRID"', modify
+label define provincelb 29 `"MALAGA"', modify
+label define provincelb 30 `"MURCIA"', modify
+label define provincelb 31 `"NAVARRA"', modify
+label define provincelb 32 `"OURENSE"', modify
+label define provincelb 33 `"ASTURIAS"', modify
+label define provincelb 34 `"PALENCIA"', modify
+label define provincelb 35 `"LAS PALMAS"', modify
+label define provincelb 36 `"PONTEVEDRA"', modify
+label define provincelb 37 `"SALAMANCA"', modify
+label define provincelb 38 `"TENERIFE"', modify
+label define provincelb 39 `"CANTABRIA"', modify
+label define provincelb 40 `"SEGOVIA"', modify
+label define provincelb 41 `"SEVILLA"', modify
+label define provincelb 42 `"SORIA"', modify
+label define provincelb 43 `"TARRAGONA"', modify
+label define provincelb 44 `"TERUEL"', modify
+label define provincelb 45 `"TOLEDO"', modify
+label define provincelb 46 `"VALENCIA"', modify
+label define provincelb 47 `"VALLADOLID"', modify
+label define provincelb 48 `"BIZCAIA"', modify
+label define provincelb 49 `"ZAMORA"', modify
+label define provincelb 50 `"ZARAGOZA"', modify
+label define provincelb 51 `"CEUTA"', modify
+label define provincelb 52 `"MELILLA"', modify
+label define provincelb 53 `"FERROL"', modify
+label define provincelb 56 `"VILLAG. AROSA"', modify
+label define provincelb 66 `"Abroad"', modify
+label define provincelb 99 `"SERV. CENTRALES"', modify
