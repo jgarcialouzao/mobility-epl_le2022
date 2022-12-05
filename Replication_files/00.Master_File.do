@@ -25,9 +25,6 @@ ssc install outreg2, replace
 
 
 ** Routines to obtain the final results 
-*  routines should be stored in ${path}\do_files\
-
-* 1) Data extraction 
 
 * 1) Data extraction 
 
