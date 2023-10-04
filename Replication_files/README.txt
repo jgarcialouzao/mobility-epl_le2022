@@ -22,6 +22,6 @@ The Social Security administration evaluates the request and, if positive, the d
 
 ************** DATA ACCESS PROCESSING & RESULTS ******************************
 
-After having access to the data, replication of the results ask for running for a serious of Stata routines that are included in the Master_File.do
+After having access to the data, replication of the results ask for running a series of Stata routines that are included in the Master_File.do
 
 It is important that all directories are set up as indicated in the do.files to ensure the smooth process of the routines. 
